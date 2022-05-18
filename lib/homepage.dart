@@ -966,7 +966,7 @@ class _HomePageState extends State<HomePage> {
                                           height: 15,
                                         ),
                                         SizedBox(
-                                            width: w * 0.1857,
+                                            width: w * 0.1858,
                                             child: Text(
                                               "RobotMola",
                                               style: GoogleFonts.montserrat(
